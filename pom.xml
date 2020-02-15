@@ -6,7 +6,9 @@
     <version>1.0-RAMA</version>
     <packaging>pom</packaging>
     <name>Project Build</name>
-
+    
+    <!-- Demo on Git Webhooks-->
+    
     <modules>
         <module>project</module>
     </modules>
